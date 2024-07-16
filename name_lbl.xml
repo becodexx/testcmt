@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<menuitem>
+	<menu1>
+		<cms>Ad Teams</cms>
+		<iscms>1</iscms>
+		<label>Blog</label>
+		<fuseaction>Blog</fuseaction>
+		<is_secure>0</is_secure>
+		<is_new_window_link>0</is_new_window_link>
+		<prodgroup>cf_thread</prodgroup>
+	</menu1>
+</menuitem>
